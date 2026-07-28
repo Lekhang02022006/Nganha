@@ -1,4 +1,4 @@
-body {
+body, .demuc {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 19px;
     font-weight: 300;
@@ -102,3 +102,14 @@ border-top-color: #f9c922; /* Chrome, Opera 15+, Safari 5+ */ animation: spin 1.
 /* JavaScript Turned Off */
 .no-js #loader-wrapper { display: none; }
 /*============ Preloader ends ==================================*/
+
+.khung {
+    border: 1px solid white;
+}
+
+.modal-header{
+    background-color: #0E6DFD;
+}
+.modal-footer {
+    background-color: #188754 !important;
+}
